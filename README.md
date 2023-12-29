@@ -20,3 +20,5 @@ This is a Python implementation of the classic Minesweeper game using the tkinte
 ## Controls
 
 - Left-click on a cell to reveal it.
+
+![Minesweep](https://github.com/Gabriel-Halaweh/MineSweeper/assets/115294138/64f15d19-85fc-4184-956f-2f18f5565787)
